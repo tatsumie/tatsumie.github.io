@@ -9,3 +9,9 @@ p{
     color:white;
     text-align: center;
 }
+
+#customHeader{ 
+    /* for specific element changes in css ? probably */
+    color: yellow; 
+    text-align: left; 
+}
