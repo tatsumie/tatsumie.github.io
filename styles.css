@@ -16,7 +16,7 @@ header{
     text-align: left; 
 }
 header h1{ 
-   background-color: var(--bg-color);
+   background-color: black;
   padding: 5px 0px;
   text-align: center;
   width: 100%;
