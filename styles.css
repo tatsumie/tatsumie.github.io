@@ -11,7 +11,9 @@ p{
     color: rgb(71, 71, 71);
     text-align: center;
 }
-
+#list1 { 
+    list-style: none;
+}
 #customHeader{ 
     /* for specific element changes in css ? probably */
     color: yellow; 
