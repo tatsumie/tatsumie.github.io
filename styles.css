@@ -6,6 +6,7 @@ h1{
 header h1 {
    background-color: black;
    font-family: "Roboto"; 
+   color:white;
 }
 p{
     color: rgb(71, 71, 71);
